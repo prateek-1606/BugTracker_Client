@@ -1,0 +1,8 @@
+.dropdown {
+    position: relative;
+    display: none;
+}
+
+.dropdown-toggler {
+    margin-left: .5rem;
+}
